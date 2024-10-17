@@ -13,7 +13,7 @@ This is a responsive, user-friendly Habit Tracker Application built with React, 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/habit-tracker-app.git
+   git clone https://github.com/devang115/habit-tracker-app.git
    cd habit-tracker-app
    ```
 
